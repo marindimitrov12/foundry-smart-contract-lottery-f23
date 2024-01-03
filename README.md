@@ -1,3 +1,15 @@
+# Probably Random Raffle Contract
+
+# About
+
+This code is to create a probably random smart contract lottery.
+1.Users can enter by paying for a ticket.
+2.The ticket fees are going to go to the winner during the draw.
+3.After X period of time ,the lottery will automaticaly draw a winner.
+4.And this will be done programaticaly.
+
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
